@@ -1,2 +1,4 @@
 Welcome to project school
 Cybersecurity session
+
+www.google.com.		145	IN	A	142.250.183.228
